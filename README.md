@@ -9,5 +9,5 @@ This repository has four main sections:
 ## Contributor
 Aditya Raj
 ## Professors
-- Sir. Chandrasinh Parmar
-- Sir. Nishith Kotak
+- Prof. Chandrasinh Parmar
+- Prof. Nishith Kotak
