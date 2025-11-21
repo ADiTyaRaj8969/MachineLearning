@@ -7,7 +7,7 @@ This repository has four main sections:
 - **TW Lab Experiment Performance**: contains the experiments performed in laboratory
 - **TW Practical Assignments**: contains assignments based on ML concepts and laboratory experiments
 ## Contributor
-Chan Evan Wesley
+Aditya Raj
 ## Professors
 - Sir. Chandrasinh Parmar
 - Sir. Nishith Kotak
